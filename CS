@@ -1,0 +1,59 @@
+============================================
+## GIT
+http://overapi.com/git
+============================================
+## htaccess
+http://thejackol.com/htaccess-cheatsheet/
+============================================
+## Google
+http://overapi.com/static/cs/Google%20Cheat%20Sheet.pdf
+http://www.googleguide.com/advanced_operators_reference.html
+https://support.google.com/websearch/answer/2466433?rd=1
+============================================
+## Google Chrome
+http://anti-code.com/devtools-cheatsheet/
+http://www.jake.dk/Download/ChromePlus_Mouse_Gestures_CheatSheet_version_1.0.jpg
+============================================
+## IPv6
+http://overapi.com/static/cs/IPv6.pdf
+============================================
+## IPsec
+http://overapi.com/static/cs/IPsec.pdf
+============================================
+## Linux
+http://overapi.com/linux
+https://8ack.de/dontpanic/linsacheatsheet.pdf
+http://jd40c.com/linux.html
+http://www.catonmat.net/download/sed.stream.editor.cheat.sheet.pdf
+http://steve-parker.org/sh/cheatsheet.pdf
+http://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/refcards.html
+http://www.mikeoliveri.com/utils/shellcheatsheet.pdf
+============================================
+## OpenSSH
+http://overapi.com/static/cs/OpenSSH_quickref.pdf
+============================================
+## SSL
+http://overapi.com/static/cs/Ssl_handshake_with_two_way_authentication_with_certificates-1.pdf
+============================================
+## TCP
+https://www.gasmi.net/tcp.php
+============================================
+## TCPdump
+http://overapi.com/static/cs/tcpdump.pdf
+============================================
+## Python
+http://overapi.com/python
+============================================
+## Country Code
+http://www.visibone.com/countrycodes/
+============================================
+## EIGRP
+http://overapi.com/static/cs/EIGRP.pdf
+============================================
+## VMWare
+http://www.vreference.com/public/vmreferenceVI3card1.3for3.5U3.pdf
+============================================
+## Windows
+http://overapi.com/static/cs/ResKit_Quickref.pdf
+http://overapi.com/static/cs/Windows_folders_quickref.pdf
+http://overapi.com/static/cs/windows_powershell2_cheat_sheet.pdf
