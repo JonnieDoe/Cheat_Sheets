@@ -1,0 +1,33 @@
+GIT Tags
+========
+
+# See all tags
+#
+$ git tag
+$ git tag -l "v1.8.5*"
+$ git show v1.4
+
+# Check which branch the Tag belong to
+#
+$ git branch --contains tags/BLN_XYZ_CONVERTER_00.03.17
+
+# Create Tag
+# Git uses two main types of tags: lightweight and annotated
+#
+$ $ git tag -a v1.4 -m "my version 1.4"
+$ $ git tag v1.4-lw
+
+# Delete a local Tag
+#
+$ git tag --delete BLN_XYZ_CONVERTER_00.03.17
+
+# Delete a remote Tag
+#
+$ git push origin :<tag_name>
+$ git push --delete origin <tag_name>
+================================================================================================
+# Delete remote folder from Git 
+
+$ git rm -r --cached FolderName
+$ git commit -m "Removed folder from repository"
+$ git push origin master

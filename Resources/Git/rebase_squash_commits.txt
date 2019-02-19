@@ -1,0 +1,6 @@
+1. Checkout your branch and count quantity of all your commits.
+2. Open git bash and write: git rebase -i HEAD~<quantity of your commits> (i.e. git rebase -i HEAD~5)
+3. In opened txt file change pick keyword to squash for all commits, except first commit (which is on the top).
+   For top one change it to reword (which means you will provide a new comment for this commit in the next step) and click SAVE!
+4. Provide Comment.
+5. Open Git and make "Fetch all" to see new changes.
